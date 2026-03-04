@@ -1,0 +1,6 @@
+Java File Processing Sample Data
+
+Line 1: Hello from the text file. Line 2: This file is created for
+testing Java File class. Line 3: You can read it using Scanner,
+BufferedReader, or FileReader. Line 4: Practice reading lines, counting
+words, and processing data. Line 5: End of sample text.
